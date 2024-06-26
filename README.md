@@ -1,2 +1,2 @@
 # atv-trio-mea
-segunda atividade do curso em trio
+segunda atividade do curso, em trio
